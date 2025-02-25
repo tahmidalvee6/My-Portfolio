@@ -11,6 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
             item.style.boxShadow = "none";
         });
     });
+    
 
     const educationItems = document.querySelectorAll(".education-item");
     educationItems.forEach((item) => {

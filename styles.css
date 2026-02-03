@@ -2,8 +2,6 @@
    VARIABLES & RESET
    ============================================ */
 
-
-
 :root {
     /* Colors - Bold, Modern Palette */
     --bg-primary: #0a0e27;
@@ -1743,3 +1741,4 @@ body {
     }
 
 }
+

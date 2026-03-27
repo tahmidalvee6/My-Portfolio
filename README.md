@@ -1,72 +1,63 @@
 <div align="center">
 
-# Hi there, I'm Tahmid Alvee 👋
+# 🌟 Welcome to My Portfolio
 
-### `< MERN Stack Developer />` · `< Aspiring Data Scientist />`
+### I'm **Tahmid Alvee** — MERN Stack Developer & Aspiring Data Scientist
 
-*Passionate about the intersection of Data Science and Software Development*
-*— always learning, always building. 🚀*
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tahmid--alvee.netlify.app-0d1117?style=for-the-badge)](https://tahmid-alvee.netlify.app)
+*Crafting meaningful digital experiences, one line of code at a time.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-alvee-300a9729a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tahmidalvee6)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahmid_alvee_06)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tahmidalveeofficial6/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@TahmidAlvee-vr9gg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tahmidalveeofficial6@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-0d1117?style=for-the-badge)](https://tahmid-alvee.netlify.app)
+&nbsp;
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-0A66C2?style=for-the-badge)](https://tahmid-alvee.netlify.app/assets/cv/Tahmid_Alvee_CV.pdf)
 
 </div>
 
 ---
 
-```yaml
-Name     : Tahmid Alvee
-Role     : MERN Stack Developer
-Study    : B.Sc. CSE @ IIUC, Chittagong (2023 – 2027)
-Status   : ✅ Available for Work
-Interests: Data Science · Full-Stack Dev · Problem Solving · Game Dev
-```
+## 👨‍💻 About Me
+
+I'm an undergraduate **Computer Science & Engineering** student at **International Islamic University Chittagong (IIUC)**, with a strong passion for **Data Science**, **Problem Solving**, and **Software Development**.
+
+My journey in tech is driven by curiosity and a desire to build meaningful solutions — from competitive programming on Codeforces & LeetCode to developing full-stack applications and game prototypes.
+
+> 🚀 20+ Projects &nbsp;·&nbsp; 🧩 350+ Problems Solved &nbsp;·&nbsp; 🏆 10+ Certifications
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 What I Do
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| Role | Focus |
+|------|-------|
+| 💻 Full-Stack Developer | Building end-to-end web apps with the MERN stack |
+| 📊 Aspiring Data Scientist | Data analysis, ML models, NumPy · Pandas · Matplotlib |
+| 📱 App Developer | Cross-platform mobile apps with Flutter & Dart |
+| 🎮 Game Developer | 2D/3D games using Unity & Scratch |
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Find Me Online
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmidalvee6&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidalvee6&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahmidalvee6&theme=tokyonight&hide_border=true" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-alvee-300a9729a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidalvee6)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tahmid_alvee_06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tahmidalveeofficial6/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TahmidAlvee-vr9gg)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16FKCb7Rsa/)
+
+📧 **tahmidalveeofficial6@gmail.com** &nbsp;·&nbsp; 📍 **Chittagong, Bangladesh**
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>🚀 20+ Projects · 🧩 350+ Problems Solved · 🏆 10+ Certifications</sub>
-  <br/><br/>
-  <i>"Code is not just instructions for machines — it's a craft."</i>
-  <br/><br/>
-  ⭐ <b>Star this repo if you like my work!</b>
+
+*"Code is not just instructions for machines — it's a craft."*
+
+⭐ **If you like my portfolio, drop a star — it means a lot!**
+
 </div>

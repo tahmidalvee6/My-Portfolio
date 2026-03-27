@@ -1,113 +1,60 @@
 <div align="center">
 
-# 🌟 Tahmid Alvee — Portfolio
+# `< Tahmid Alvee />`
 
-### *Crafting digital experiences with clean code and creative thinking*
+**MERN Stack Developer · CSE Student at IIUC · Aspiring Data Scientist**
 
-[![Email](https://img.shields.io/badge/Email-tahmidalveeofficial6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmidalveeofficial6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+*Passionate about the intersection of Data Science and Software Development — always learning, always building.*
+
+🌐 **[tahmid-alvee.netlify.app](https://tahmid-alvee.netlify.app)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-tahmidalvee6-181717?style=flat-square&logo=github)](https://github.com/tahmidalvee6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahmid%20Alvee-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tahmid-alvee-300a9729a)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tahmid__alvee__06-1F8ACB?style=flat-square&logo=codeforces)](https://codeforces.com/profile/tahmid_alvee_06)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/tahmidalveeofficial6/)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🚀 About
 
-Hi! I'm **Tahmid Alvee** — a passionate developer who loves building things that live on the internet (and beyond). This repository houses my personal portfolio website, designed to present my skills, projects, and experiences in a clean, responsive, and professional way.
+This repository contains my personal portfolio website — built to showcase my skills, projects, and experiences in a clean, responsive, and professional manner.
 
-> *"Code is not just instructions for machines — it's a craft."*
-
----
-
-## ✨ Live Portfolio
-
-🌐 **[View Live →](https://your-portfolio-link.com)**
+**Stats at a glance:**
+- 🚀 20+ Projects Built
+- 🧩 350+ Problems Solved
+- 🏆 10+ Certifications
+- ⚡ 15+ Tech Skills
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | Structure & Markup |
-| ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Styling & Animations |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Interactivity & Logic |
-
----
-
-## 🎯 What's Inside
-
-```
-📁 My-Portfolio/
-├── 🏠 index.html          → Landing / Hero section
-├── 🎨 style.css           → Global styles & themes
-├── ⚙️  script.js           → Interactions & animations
-├── 📁 assets/
-│   ├── 🖼️  images/         → Profile photo, project screenshots
-│   └── 📄 resume.pdf       → Downloadable CV
-└── 📁 sections/
-    ├── about.html          → About Me
-    ├── projects.html       → Featured Projects
-    ├── skills.html         → Tech Stack
-    └── contact.html        → Contact Form
-```
-
----
-
-## 🚀 Featured Projects
-
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 01 | 🌍 **Travel & Tourism Management System** | Complete management system for travel agencies | C++ |
-| 02 | 🏦 **Bank Management System** | Banking operations with account & transaction handling | C++ |
-| 03 | 🪐 **Solar System Simulation** | Interactive simulation of the solar system | Python |
-| 04 | 🎯 **Guessing Game** | A fun number guessing game | Python |
-
-> 🔗 Full project gallery available on the [live portfolio](https://your-portfolio-link.com)
-
----
-
-## 💡 Skills Snapshot
-
-**Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
-## 🚀 Run Locally
+## 📬 Contact
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/My-Portfolio.git
-
-# Navigate to the project folder
-cd My-Portfolio
-
-# Open in browser (or use Live Server in VS Code)
-open index.html
-```
-
----
-
-## 📬 Get In Touch
-
-I'm always open to collaborations, feedback, or just a friendly chat!
-
-📧 **[tahmidalveeofficial6@gmail.com](mailto:tahmidalveeofficial6@gmail.com)**
+📧 [tahmidalveeofficial6@gmail.com](mailto:tahmidalveeofficial6@gmail.com) · 📍 Chittagong, Bangladesh
 
 ---
 
 <div align="center">
 
-Made with ❤️ by **Tahmid Alvee**
+© 2026 Tahmid Alvee · Made with ❤️
 
-⭐ *If you like this portfolio, drop a star — it means a lot!*
+⭐ *Star this repo if you like my work!*
 
 </div>

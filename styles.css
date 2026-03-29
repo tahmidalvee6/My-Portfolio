@@ -158,9 +158,9 @@ body {
     right: 0;
     z-index: 1000;
     background: rgba(10, 14, 39, 0.9);
-    backdrop-filter: blur(10px);
-    border-bottom: 1px solid rgba(0, 217, 255, 0.1);
-    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);                               
+    border-bottom: 1px solid rgba(0, 217, 255, 0.1);            
+    transition: all 0.3s ease;                                      
 }
 
 .navbar.scrolled {
@@ -174,7 +174,7 @@ body {
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center;                            
 }
 
 .nav-logo {
@@ -192,12 +192,11 @@ body {
     background: linear-gradient(135deg, #00d9ff, #7c3aed, #ec4899);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    background-clip: text;
+    background-clip: text;                             
 }
 
 .nav-menu {
     display: flex;
-    list-style: none;
     gap: 2rem;
 }
 
@@ -206,8 +205,8 @@ body {
     text-decoration: none;
     font-weight: 500;
     font-size: 0.95rem;
-    transition: color 0.2s;
-    position: relative;
+    transition: color 0.2s;                                
+    position: relative;                          
 }
 
 .nav-link::after {
@@ -244,43 +243,7 @@ body {
     background: linear-gradient(135deg, #05071a, #0d0f2b, #0a0e27);
 }
 
-.hero-bg {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    z-index: 0;
-}
 
-.hero-blob {
-    position: absolute;
-    border-radius: 50%;
-    filter: blur(90px);
-    opacity: 0.25;
-}
-
-.hero-blob--1 {
-    width: 360px;
-    height: 360px;
-    background: radial-gradient(circle, #00b4d8, #0077b6);
-    top: 8%;
-    left: 5%;
-}
-
-.hero-blob--2 {
-    width: 420px;
-    height: 420px;
-    background: radial-gradient(circle, #6d28d9, #4c1d95);
-    bottom: 12%;
-    right: 8%;
-}
-
-.hero-blob--3 {
-    width: 280px;
-    height: 280px;
-    background: radial-gradient(circle, #be185d, #831843);
-    top: 45%;
-    right: 22%;
-}
 
 .hero-content {
     position: relative;
@@ -503,7 +466,7 @@ body {
 /* ABOUT */
 
 .about {
-    padding: 6rem 0 6rem 8rem;
+    padding: 6rem 0 6rem 4rem;
     position: relative;
 }
 

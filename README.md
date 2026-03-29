@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-0d1117?style=for-the-badge)](https://tahmid-alvee.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-0d1117?style=for-the-badge)](https://tahmid-alvee.netlify.app/)
 &nbsp;
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-0A66C2?style=for-the-badge)](https://tahmid-alvee.netlify.app/assets/cv/Tahmid_Alvee_CV.pdf)
 
